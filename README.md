@@ -7,3 +7,7 @@ I was tired to use Internet Explorer (not more present in Windows 11) to access 
 - Now you can access to openfiler with http 
 
 IMPORTANT: due to lack of TLS encryption i strongly advise you to use it only in a test enviroment
+
+ISO USED: openfileresa-2.99.1-x86_64-disc1.iso
+
+WEBSITE PROJECT: https://openfiler.com/
